@@ -1,0 +1,68 @@
+=== LAB 2 EVIDENCE ===
+
+=== OS VERSION ===
+Майкрософт Windows Server 2022 Standard Evaluation
+10.0.20348
+
+=== COMPUTER NAME ===
+SRV-BUTORIN
+
+=== IP CONFIGURATION ===
+
+ifIndex IPAddress    PrefixLength PrefixOrigin SuffixOrigin AddressState PolicyStore
+------- ---------    ------------ ------------ ------------ ------------ -----------
+4       192.168.1.10           24 Manual       Manual       Preferred    ActiveStore
+
+
+
+=== IIS STATUS ===
+IIS (W3SVC): Running
+
+=== DNS ROLE ===
+DNS Installed: True
+
+=== INDEX.HTML ===
+index.html FOUND
+
+=== HTTP TEST (localhost) ===
+HTTP Status: 200
+
+=== INSTALLED ROLES ===
+
+Name                      DisplayName                                  
+----                      -----------                                  
+DNS                       DNS-сервер                                   
+Web-Server                Веб-сервер (IIS)                             
+Web-WebServer             Веб-сервер                                   
+Web-Security              Безопасность                                 
+Web-Filtering             Фильтрация запросов                          
+Web-Health                Исправность и диагностика                    
+Web-Http-Logging          Ведение журнала HTTP                         
+Web-Common-Http           Общие функции HTTP                           
+Web-Default-Doc           Документ по умолчанию                        
+Web-Dir-Browsing          Обзор каталога                               
+Web-Http-Errors           Ошибки HTTP                                  
+Web-Static-Content        Статическое содержимое                       
+Web-Performance           Производительность                           
+Web-Stat-Compression      Сжатие статического содержимого              
+Web-Mgmt-Tools            Средства управления                          
+Web-Mgmt-Console          Консоль управления службами IIS              
+FileAndStorage-Services   Файловые службы и службы хранилища           
+Storage-Services          Службы хранения                              
+NET-Framework-45-Features .NET Framework 4.8 Features                  
+NET-Framework-45-Core     .NET Framework 4.8                           
+NET-WCF-Services45        Службы WCF                                   
+NET-WCF-TCP-PortSharing45 Совместное использование портов TCP          
+PowerShellRoot            Windows PowerShell                           
+PowerShell                Windows PowerShell 5.1                       
+XPS-Viewer                XPS Viewer                                   
+Windows-Defender          Антивирусная программа в Microsoft Defender  
+System-DataArchiver       Архиватор системных данных                   
+WoW64-Support             Поддержка WoW64                              
+RSAT                      Средства удаленного администрирования сервера
+RSAT-Role-Tools           Средства администрирования ролей             
+RSAT-DNS-Server           Средства DNS-сервера                         
+
+
+
+=== END OF EVIDENCE ===
